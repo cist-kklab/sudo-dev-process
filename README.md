@@ -2,6 +2,8 @@
 
 公立千歳科学技術大学 山川広人研究室で開発している「顧客と開発者のドメイン層への共通理解の促進」を目指したシステム開発手法のリポジトリです．
 
+- [最新版(2026.03.26)](guideline2026-3-26.md)
+
 ## 関連論文
 
 - Mayu Sudo, Shunsuke Hirakawa, Hiroto Yamakawa (2026). A System Development Process Aimed at Enhancing Understandability of Mapping between Requirements and Source-Code Operations in Project-Based Learning, 
